@@ -1,5 +1,7 @@
 # grafui
 
+![screenshot](https://github.com/israelidanny/grafui/raw/master/screenshot.png)
+
 grafui is a cross platform graphical user interface for grpah databases built in Qt for Python. The first version is going to only support `neo4j` as a database, however there shouldn't be any reason not to support other databases in the future.
 
 __*At this moment this repository is in extremely early development stages and is not ready for any kind of use*__
