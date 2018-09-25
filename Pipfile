@@ -4,7 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-"pyside2" = "*"
+pyside2 = "*"
+keyring = "*"
+neo4j-driver = "*"
 
 [dev-packages]
 
