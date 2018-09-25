@@ -13,34 +13,34 @@ However, at the time of writing this readme, I could not find anything at all fo
 ## Roadmap for first pre-alpha release
 _Checked items are implemented_
 - [x] Basic connection management
-  -[x] Adding / removing connections
-  -[x] Storing connections in operation system registry
-  -[x] Storing passwords separately in encrypted keychain storage 
--[ ] Workspaces
-  -[x] Initiating a connection
-  -[ ] Creating a workspace tab for the newly opened connection
-  -[ ] Query editor and runner
-  -[ ] Table view for retrieved records
-    -[ ] Sorting
-    -[ ] Pagination
-  -[ ] Graph view for retrieved records
-    -[ ] Node visualization
-    -[ ] Relationship visualization
-    -[ ] Traversing / expanding nodes by double clicking
--[ ] Elementary CRUD
-  -[ ] Editing properties on retrieved records
-  -[ ] Creating new nodes
-  -[ ] Removing existing nodes
--[ ] Relationships
-  -[ ] Displaying relationships
-  -[ ] Editing properties on relationships
-  -[ ] Creating new relationships between nodes
-  -[ ] Removing existing relationships
--[ ] Indicies and constraints
-  -[ ] Listing indicies and constraints
-  -[ ] Creating / editing / removing indicies and constraints
--[ ] Discovery and metrics
-  -[ ] Fetching a list of node labels
-  -[ ] Fetching a list of relationship types
-  -[ ] Fetching a list of property keys
-  -[ ] Showing metrics for database
+  - [x] Adding / removing connections
+  - [x] Storing connections in operation system registry
+  - [x] Storing passwords separately in encrypted keychain storage 
+- [ ] Workspaces
+  - [x] Initiating a connection
+  - [ ] Creating a workspace tab for the newly opened connection
+  - [ ] Query editor and runner
+  - [ ] Table view for retrieved records
+    - [ ] Sorting
+    - [ ] Pagination
+  - [ ] Graph view for retrieved records
+    - [ ] Node visualization
+    - [ ] Relationship visualization
+    - [ ] Traversing / expanding nodes by double clicking
+- [ ] Elementary CRUD
+  - [ ] Editing properties on retrieved records
+  - [ ] Creating new nodes
+  - [ ] Removing existing nodes
+- [ ] Relationships
+  - [ ] Displaying relationships
+  - [ ] Editing properties on relationships
+  - [ ] Creating new relationships between nodes
+  - [ ] Removing existing relationships
+- [ ] Indicies and constraints
+  - [ ] Listing indicies and constraints
+  - [ ] Creating / editing / removing indicies and constraints
+- [ ] Discovery and metrics
+  - [ ] Fetching a list of node labels
+  - [ ] Fetching a list of relationship types
+  - [ ] Fetching a list of property keys
+  - [ ] Showing metrics for database
